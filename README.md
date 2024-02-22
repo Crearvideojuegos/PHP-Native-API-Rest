@@ -7,11 +7,19 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crearvideojuego)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crearvideojuegos)
 
+## Visita mi página de Itch.io
+
+[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-color.png)](https://crearvideojuegos.itch.io)
+
 ## Sobre mi
 
-¡Bienvenidos al repositorio de Crear Videojuegos! Me llamo Alex y soy programador y diseñador de videojuegos. He creado esta cuenta de github para subir los proyectos y recursos que estoy creando para mis tutoriales de Youtube. Te animo a que veas los repositorios subidos y que leas los README de cada uno para saber mas de ellos.
+![Image Capture](https://iwritegame.com/github/img/mylogo.png)
 
-Puedes seguirme en mis redes sociales para obtener mas información de nuevos proyectos y tutoriales.
+Hola! Me llamo Alex y te doy la bienvenida a mi repositorio de Github. Soy un entusiasta Gamedev y Gamedesigner y en este repositorio encontraras principalmente varios proyectos realizados en Unity, los cuales he subido por motivos educacionales. Recuerda que puedes ver mas sobre mis proyectos en mis redes sociales que tienes mas arriba.
+
+También hay varios proyectos web en el repositorio para su uso libre, como una web para aprender ingles mediante tarjetas, un minijuego, etc...
+
+Si te gusta lo que hago, sígueme en mis redes sociales!
 
 ## Sobre el proyecto
 
